@@ -1,7 +1,7 @@
 Package: turkeyelections
 Type: Package
 Title: The Most Comprehensive R Package for Turkish Election Results
-Version: 0.1.1
+Version: 0.1.2
 Authors@R: c(
     person(given = "Ozancan",
              family = "Ozdemir",
@@ -12,15 +12,15 @@ License: MIT + file LICENSE
 URL: https://github.com/ozancanozdemir/turkeyelections
 BugReports: https://github.com/ozancanozdemir/turkeyelections/issues
 Depends: R (>= 4.0)
-Imports: ggplot2, ggparliament, stringr, dplyr, stats
+Imports: ggplot2, ggpol, stringr, dplyr, stats, colorRamp2
 Suggests: testthat (>= 3.0.0), devtools, remotes, roxygen2, usethis
 Encoding: UTF-8
 LazyData: true
 Config/testthat/edition: 3
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2024-02-02 23:33:36 UTC; ozancanozdemir
+Packaged: 2024-04-30 13:26:11 UTC; ozancanozdemir
 Author: Ozancan Ozdemir [aut, cre]
 Maintainer: Ozancan Ozdemir <ozancanozdemir@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-02-04 10:20:02 UTC
+Date/Publication: 2024-04-30 13:40:02 UTC
