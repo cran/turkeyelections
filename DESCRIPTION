@@ -1,13 +1,13 @@
 Package: turkeyelections
 Type: Package
 Title: The Most Comprehensive R Package for Turkish Election Results
-Version: 0.1.3
+Version: 0.1.4
 Authors@R: c(
     person(given = "Ozancan",
              family = "Ozdemir",
              role = c("aut","cre"),
              email = "ozancanozdemir@gmail.com"))
-Description: Includes the results of general, local, and presidential elections held in Turkey between 1995 and 2023, broken down by provinces and overall national results. It facilitates easy processing of this data and the creation of visual representations based on these election results.
+Description: Includes the results of general, local, and presidential elections held in Turkey between 1995 and 2024, broken down by provinces and overall national results. It facilitates easy processing of this data and the creation of visual representations based on these election results.
 License: MIT + file LICENSE
 URL: https://github.com/ozancanozdemir/turkeyelections
 BugReports: https://github.com/ozancanozdemir/turkeyelections/issues
@@ -19,8 +19,8 @@ LazyData: true
 Config/testthat/edition: 3
 RoxygenNote: 7.2.3
 NeedsCompilation: no
-Packaged: 2025-11-13 22:08:12 UTC; ozancanozdemir
+Packaged: 2025-11-14 08:42:39 UTC; ozancanozdemir
 Author: Ozancan Ozdemir [aut, cre]
 Maintainer: Ozancan Ozdemir <ozancanozdemir@gmail.com>
 Repository: CRAN
-Date/Publication: 2025-11-13 22:20:02 UTC
+Date/Publication: 2025-11-17 21:50:33 UTC
